@@ -1,0 +1,22 @@
+div p{
+
+    background-color:rgba(243,255,243,0.7);
+    border-radius: 30px;
+    border: 2px black solid;
+    text-align: center;
+}
+
+
+.row{
+
+    margin: 0px 10px 10px 10px;
+    padding: 10px;
+    
+}
+
+
+
+h6{
+    text-align: center;
+}
+
